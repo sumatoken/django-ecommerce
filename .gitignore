@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 .envecommerce/
+=======
+.envEcommerce/
+>>>>>>> 6653758acc1525a6ba2073e92e4bf0ab8684b5b9
 db.sqlite3
